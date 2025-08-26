@@ -6,6 +6,7 @@ target/
 
 ### Custom ###
 application-local.yml
+ChatModelConfig.java
 
 ### STS ###
 .apt_generated
